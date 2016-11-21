@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Delius+Unicase');
+
 body {
   margin: 0;
   padding: 0;
@@ -5,7 +7,7 @@ body {
   color: #eaeaea;
   font: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Delius Unicase, Helvetica;
 }
 
 /* General & 'Reset' Stuff */
